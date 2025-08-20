@@ -1,16 +1,21 @@
-## Hi there 👋
+# Ben Lye
 
-<!--
-**usernameone101/usernameone101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent researcher exploring **AI Systems**, **CUDA-based programming**, and **applied cybersecurity**.
+Focused on experimental methods at the intersection of **low-level systems** and **security research**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research Interests.
+- AI infrastrcuture & custom tensor libraries in **C/CUDA**.
+- Low-level systems programming & experimental optimization.
+- Applied cybersecurity & experimental system hardening.
+
+### 🎯 Featured Projects (coming soon).
+- **cuda-tensor-lib** -> lightweight deep learning ops in C/CUDA.
+- **c-inference-engine** -> symbolic + RL experiments in pure C.
+- **binary-hardening-lab** -> prototypes for self-healing + behavioural security.
+
+---
+
+### 🌍 Connect.
+- [LinkedIn](https://www.linkedin.com/in/benlyecybersecurity).
