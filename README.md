@@ -1,6 +1,6 @@
 # Ben Lye
 
-Independent researcher exploring **AI Systems**, **CUDA-based programming**, and **applied cybersecurity**.
+Independent researcher exploring **Pure Mathematics**, **AI Systems**, **CUDA-based programming**, and **applied cybersecurity**.
 Focused on experimental methods at the intersection of **low-level systems** and **security research**.
 
 ---
