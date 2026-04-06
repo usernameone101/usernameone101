@@ -1,6 +1,3 @@
-# Ben Lye
-See my repos for my about
-
 Interested in all things Virtualization, Rust, C, Offensive Security, and OS/Kernel Development.
 
 Associate Vulnerability Specialist during my dayjob, active at night.
